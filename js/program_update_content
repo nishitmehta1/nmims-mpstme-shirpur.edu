@@ -1,0 +1,90 @@
+function updatecontent(){
+	var select = document.querySelector('#select-course');
+	var option =select.options[select.selectedIndex].value;
+	if (window.XMLHttpRequest)
+		{// code for IE7+, Firefox, Chrome, Opera, Safari
+		    xmlhttp=new XMLHttpRequest();
+		}
+		else
+		{// code for IE6, IE5
+		    xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+		}
+	if (option=='btechcs') {
+		xmlhttp.open("GET","programs/btechcs.txt",false);
+		xmlhttp.send();
+		content=xmlhttp.responseText;
+		document.getElementById('course_content').innerHTML=content;
+	} 
+	else if(option=='btechmech'){
+		xmlhttp.open("GET","programs/btechmech.txt",false);
+		xmlhttp.send();
+		content=xmlhttp.responseText;
+		document.getElementById('course_content').innerHTML=content;
+	}
+	else if(option=='btechit'){
+		xmlhttp.open("GET","programs/btechit.txt",false);
+		xmlhttp.send();
+		content=xmlhttp.responseText;
+		document.getElementById('course_content').innerHTML=content;
+	}
+	else if(option=='btechextc'){
+		xmlhttp.open("GET","programs/btechextc.txt",false);
+		xmlhttp.send();
+		content=xmlhttp.responseText;
+		document.getElementById('course_content').innerHTML=content;
+	}
+	else if(option=='btechmxtc'){
+		xmlhttp.open("GET","programs/btechmxtc.txt",false);
+		xmlhttp.send();
+		content=xmlhttp.responseText;
+		document.getElementById('course_content').innerHTML=content;
+	}
+	else if(option=='btechcivil'){
+		xmlhttp.open("GET","programs/btechcivil.txt",false);
+		xmlhttp.send();
+		content=xmlhttp.responseText;
+		document.getElementById('course_content').innerHTML=content;
+	}
+	else if(option=='btechtextile'){
+		xmlhttp.open("GET","programs/btechtextile.txt",false);
+		xmlhttp.send();
+		content=xmlhttp.responseText;
+		document.getElementById('course_content').innerHTML=content;
+	}
+	else if(option=='mbamech'){
+		xmlhttp.open("GET","programs/mbamech.txt",false);
+		xmlhttp.send();
+		content=xmlhttp.responseText;
+		document.getElementById('course_content').innerHTML=content;
+	}
+	else if(option=='mbacs'){
+		xmlhttp.open("GET","programs/mbacs.txt",false);
+		xmlhttp.send();
+		content=xmlhttp.responseText;
+		document.getElementById('course_content').innerHTML=content;
+	}
+	else if(option=='mbait'){
+		xmlhttp.open("GET","programs/mbait.txt",false);
+		xmlhttp.send();
+		content=xmlhttp.responseText;
+		document.getElementById('course_content').innerHTML=content;
+	}
+	else if(option=='mbacivil'){
+		xmlhttp.open("GET","programs/mbacivil.txt",false);
+		xmlhttp.send();
+		content=xmlhttp.responseText;
+		document.getElementById('course_content').innerHTML=content;
+	}
+	else if(option=='mbaelectrical'){
+		xmlhttp.open("GET","programs/mbaelectrical.txt",false);
+		xmlhttp.send();
+		content=xmlhttp.responseText;
+		document.getElementById('course_content').innerHTML=content;
+	}
+	else if(option=='mbaextc'){
+		xmlhttp.open("GET","programs/mbaextc.txt",false);
+		xmlhttp.send();
+		content=xmlhttp.responseText;
+		document.getElementById('course_content').innerHTML=content;
+	}
+}

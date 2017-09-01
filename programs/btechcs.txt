@@ -1,0 +1,50 @@
+	<br>
+	<br>
+	<h4>Vision</h4>
+	<p>Play a significant role in creating Computer Engineering Graduates with sound technical and managerial skills of value to industry and society both at national and international level.</p>
+	<h4>Mision</h4>
+	<p>
+		<ul>
+			<li>The Computer Engineering Department endeavors for excellence in creating, applying and imparting knowledge in computer engineering through comprehensive curriculum and innovative teaching-learning process.</li>
+			<li>Provide a sound technical and managerial foundation &amp; multifaceted development that prepares student to excel in higher education, research or technical/managerial profession that can adapt to rapidly changing technology in computer engineering.</li>
+		</ul>
+	</p>
+
+	<h4>Programme Educational Objectives</h4>
+	<p>PEO 1: Be successful in their professional career with exposure to relevant technologies in software industries. 
+		PEO 2: Graduate will be able to contribute in development of systems to solve real world problems.
+		PEO 3: Graduate will be able to pursue higher education.</p>
+
+	<h4>Programme Duration</h4>
+	<p>Four year Full Time B.Tech. in the following disciplines with the intake mentioned against each is offered at the Mumbai and Shirpur Campus.</p>
+	<h4>Intake</h4>
+	<p>Computer Engineering &#8209; 60 Seats.</p>
+	<h4>Unique Features</h4>
+	<p>The modern facilities to provide ambience and support for curricula and extra curricula activities for the overall development of students.
+		The dedicated, qualified faculty to ensure high standard of Teaching, Learning and Evaluation processes.
+		The periodic review and revision of curricula based on feedback from the industry with quick response to ensure the relevance of the programs to the changing needs of industry.
+		The industry visits and industry based project work as part of the curricula to get recognition and reward to the students in the form of job offer or support for further studies and research.</p>
+
+	<h4>Course Structure</h4>
+	<p>The course structures for various B.Tech. programs are given in subsequent pages, which are subject to review and revision by the Board of Studies in Engineering Sciences and approval of the Academic Council of the University.</p>
+
+	<h4>Program Outcome</h4>
+	<p>Apply knowledge of mathematics, science and engineering fundamentals to Computer Engineering problems.
+		Identify, formulate, research literature and analyse problems using first principles of mathematics and computing.
+		Design and develop IT solutions to complex engineering problems by considering public health, safety, environmental and cultural issues.
+		Use research based knowledge including design of experiments, analysis and interpretation of data to solve complex computer engineering problems.
+		Select or create and apply modern IT tools and techniques to predict and model complex engineering activities.
+		Apply reasoning using contextual knowledge on contemporary issues and consequent responsibilities relevant to professional engineering practice.
+		Apply the broad knowledge necessary to understand the impact of engineering solutions on sustainable development and environment.
+		Apply ethical principles and commit to professional ethics as well as norms of computer engineering practice.
+		Function effectively as an individual and a team member in multidisciplinary settings.
+		Communicate effectively on complex engineering activities with the engineering community and society at large.
+		Demonstrate knowledge and understanding of computer engineering and management principles to apply for project management in multi-disciplinary environment.
+		Engage in independent and lifelong learning to adapt technological change.</p>
+
+	<h4>Teaching, Learning And Evaluation</h4>
+	<p>Curriculum for the program includes adequate balance of fundamental / foundation, core and elective courses. The courses are based on a credit structure with 22-26 credit per semester totalling to around 180 credits over for the entire B Tech Program. Every course is assigned lectures, practicals and tutorials as per requirement. Students also undergo technical entrepreneurship and project in the 4th year. The program course content is reviewed every year with industry inputs and participation.</p>
+	<p>The school encourages students to learn through experiential mode along with class room delivery. The delivery is very actively supported by Black Board Learning Management System (BBLMS). The BBLMS facilitates learning beyond classroom through YouTube and other online content available on the net. Through this innovative teaching and learning process, students have ample opportunity to learn through different modes. The curriculum also emphasises on continuous self-learning.</p>
+
+	<h4>Detailed Curriculum</h4>
+	<a href="programs/btechcs.txt" download>LINK GOES HERE&nbsp;<i class="fa fa-download" aria-hidden="true"></i></a>

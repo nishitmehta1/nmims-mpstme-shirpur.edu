@@ -1,0 +1,8 @@
+<p>Over the years, NMIMS has grown into an outstanding academic establishment in India covering varied areas of academic interests, and attracting an equally diverse faculty and student body. </p><p>
+					The NMIMS Deemed to be University ( as per UGC Norms) hostel facility includes two full fledged hostels and three rented residential accommodations (taken care of by the University itself) in Mumbai, separately for boys and girls. The students admitted (on first come first serve basis; preference is given to students from outside of Mumbai to the hostel are entitled to stay in the hostel during the academic session only and are required to vacate the rooms during the summer vacations for maintenance work. </p>
+					<div class="collapse" id="hostel" >
+					<div>
+						<p>Students are provided with all necessary facilities in the hostel along with some value added services. Hostel application form is available at our website. Hostel fee may change each year. Students are required to submit the hostel application form and hostel fee along with all necessary documents. Hostel allotment list is provided on our website 3 days before the start of classes.Students are treated to good quality, affordable food in the hostel messes This ensures that food is the least of the worries of the budding managers of tomorrow.</p><p><a href="">Hostel Allotment List</a>
+					</div>
+					</div>
+					<a href="#hostel" data-toggle="collapse" id="element3" aria-expanded="false" aria-controls="hostel" onclick="change(3)">Read More</a>

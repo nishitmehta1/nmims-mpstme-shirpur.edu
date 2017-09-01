@@ -1,0 +1,8 @@
+.w3-black>a,.w3-dropdown-hover>div>a,.w3-dropdown-hover>button{
+  text-decoration: none;
+  cursor: default;
+}
+.w3-black{
+  text-decoration: none;
+  background-color: #333333 !important;
+}

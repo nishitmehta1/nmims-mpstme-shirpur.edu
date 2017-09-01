@@ -1,0 +1,25 @@
+<p>Over the years, NMIMS has grown into an outstanding academic establishment in India covering varied areas of academic interests, and attracting an equally diverse faculty and student body. </p><p>
+The vision of NMIMS Deemed to be University (as per UGC Norms) is to define the 21st century technological and management research. Hence the goal for NMIMS University is to encourage excellence in research and publication activities. Research is a precursor to discovery and innovation. The University systems survive on the strength of research i.e. knowledge creation and dissemination system. Realities of the modern world demand interdisciplinary research or research that cuts across the traditional boundaries of discipline.</p>
+<div class="collapse" id="research" >
+<div>
+	<p>NMIMS Deemed to be University (as per UGC Norms) continues to seek out opportunities for faculty from across the institution to work together to create knowledge. Our goal is to create research communities who share objectives that include technology, management, sciences and other humanities and social sciences. NMIMS Deemed to be University ( as per UGC Norms) seeks to create a network with other research institutions and research funding agencies. It will also create infrastructure and support services to facilitate world’s best research scholars in science, management and technology to consider pursuing their research interests at the University. The University is also keen to create a partnership with the industry and government for research purposes. In all these endeavors one of the goals is also to create a body of knowledge in social equity and sustainable development which can help create policies at the national and industry level.</p>
+	<p><b>Our Strategy</b>
+	<ul>
+	<li>Develop strong research initiatives in the areas of family business, entrepreneurship, banking and finance, financial markets, innovation in management and organization, retail, supply chain, telecommunication, microelectronics, pharmacy, bio-analytics and urban design and development.</li>
+	<li>Strengthen the existing Doctoral Programmes in all disciplines. Seek industry funding for the same and make it attractive enough for research minded scholars to consider research and teaching as a potentially rewarding career.</li>
+	<li>Create financial and non-financial support infrastructure to facilitate non-doctoral faculty to pursue the same.</li>
+	<li>Create a global network of research scholars, which will help NMIMS Deemed to be University ( as per UGC Norms) and doctoral students in pursuing their research agenda. Create strong relationship with networks like Fulbright association, USEFI, British Council and similar other educational services of other leading European and Asian countries to ensure that there is a regular flow of doctoral scholars at the University.</li>
+	<li>Provide access to all the leading international and national research journals to our faculty and doctoral and graduate students. As far as possible, this access will be online and web enabled.</li>
+	<li>Provide innovative, state-of-the-art facilities and laboratories that can function as or serve multidisciplinary research needs of faculty community. To encourage publications of NMIMS Deemed to be University ( as per UGC Norms), it will develop a list of national and international journals and categorize them following international guidelines.</li>
+	<li>Provide for financial and non-financial support for encouraging publications in University.</li>
+	<li>Seek to encourage joint research and publication between international and NMIMS scholars.</li>
+	<li>To attain the top status for the University in India on account of research and publication by 2015 and be counted among the top 30 universities in Asia Pacific on account by 2015.</li>
+	<li>Create infrastructure and resources for research which will impact the development of the state, country and global policies affecting the future of management and technology and sustainable development.</li>
+	<li>Develop & communicate policies related to intellectual property and its commercialization.</li>
+	<li>Recruit and create a cluster of international research professorship across different schools. Create a campus wide web portal to consolidate international research grants and opportunities for the faculty to know about them.</li>
+	<li>Internationalize NMIMS Deemed to be University ( as per UGC Norms) scholarship and make it a priority in all our marketing communication.</li>
+	<li>Focus research in rapidly emerging economies like China, Brazil, and Russia besides India</ul>
+	</p>
+</div>
+</div>
+<a href="#research" data-toggle="collapse" aria-expanded="false" id="element5" aria-controls="research" onclick="change(5);">Read More</a>

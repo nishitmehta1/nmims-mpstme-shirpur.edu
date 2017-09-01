@@ -1,0 +1,24 @@
+<p>Over the years, NMIMS has grown into an outstanding academic establishment in India covering varied areas of academic interests, and attracting an equally diverse faculty and student body.</p>
+<p>The year 1981 saw the opening up of the Management Education System in Mumbai with the decision of the University of Mumbai to allow new management Institutes to be set up. The pressing demand for management education, coupled with a keen sense of social commitment on the part of SVKM led to the birth of Narsee Monjee Institute of Management Studies named after the intrepid entrepreneur the Late Shri. Narsee Monjee. Over the years it has evolved as a citadel of management thought and learning.</p>
+<div class="collapse" id="founding" >
+<div>
+	<p>NMIMS made a humble beginning in 1981, as a Management Institute of the Mumbai University, offering two year full time Masters Programme in Management Studies, with 4 full time faculty, 3162 books and an intake of 40 students, above Bhaidas Hall, Vile Parle (west).</p>
+	<p>The new building of the Institute with an area of 36,000 square feet equipped with facilities for 12 classrooms, Library, Seminar & Conference Rooms and Computer Installation was commissioned in January 1985. This gave NMIMS a strong foothold.By now NMIMS had 13 full time faculty members, 2 Professors Emeritus and 75 industry professionals as Visiting Faculty.</p>
+	<p>In 1991-92 NMIMS was first amongst the Management Institutes in Mumbai to earn recognition by the All India Council for Technical Education [AICTE]. The autonomous Post Graduate Diploma in Business Management (PGDBA) was started.</p>
+	<p>NMIMS instituted a Rolling Trophy ‘SMIRNOFF-NMIMS PURE THRILL CHALLENGE’ a quiz contest for Corporate and Management Schools. Mafatlal Consultancy Rolling Trophy [NMIMS & Mafatlal] was instituted for a Paper Presentation Contest for Business Schools. Library began providing Online Databases like Librarian Ver. 4.0. CMIE, BONNET, INDIA ON LINE, as a part of its services.</p>
+	<p>Discussions commenced with Shri D. J. Sanghvi College of Engineering, Bhagubhai Mafatlal Polytechnic and C. B. Patel Research Centre to establish an ‘Enterprise and Innovation Centre for the benefit of small and medium enterprises.Student Feedback followed by faculty dialogue was introduced.</p>
+	<p>In 1999-2000, National Assessment and Accreditation Council awarded NMIMS the Five Star rating.</p>
+	<p>In 2000-01, Bombay Management Association awarded NMIMS the Best Management Institute of the year award.In 2001-02, Bombay Management Association awarded NMIMS the Best Management Institute of the year award for the 2nd time in a row.</p>
+	<p>NMIMS became the first Management School to launch its own online admission test called NMAT.</p>
+	<p>In 2002-03, NMIMS was granted the Deemed to be University ( as per UGC Norms) status, by the Ministry of Human Resource Development, Government of India on the basis of significant amount of work and recognition as one of the top business schools in India.</p>
+	<p>Restructuring of its MBA flagship course was taken up and CGPA (Cumulative Grade Point Average) system of grading was adopted by NMIMS.</p>
+	<p>NMIMS introduced four schools namely:</p>
+	<ul>
+	<li>School of Business Management</li>
+	<li>Mukesh Patel School of Technology Management & Engineering</li>
+	<li>School of Pharmacy & Technology Management</li>
+	<li>School of Distance Learning</li>
+	</ul>
+</div>
+</div>
+<a href="#founding" data-toggle="collapse" id="element2" aria-expanded="false" aria-controls="founding" onclick="change(2);">Read More</a>

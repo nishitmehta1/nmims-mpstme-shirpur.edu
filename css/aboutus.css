@@ -1,0 +1,39 @@
+.row{
+			margin:50px auto !important;
+		}
+		::-webkit-scrollbar {
+			width: 6px;
+			height: 5px;
+		}
+		::-webkit-scrollbar-track-piece  {
+			background-color: white;
+		}
+		::-webkit-scrollbar-thumb:vertical {
+			height: 30px;
+			background-color: #9C231B;
+		}
+		.list{
+			margin:0px;
+		}
+		.list>a{
+			color: #9C231B;
+			font-weight: 450;
+			text-decoration: none;
+		}
+		.collapsed{
+			color: black;
+			text-decoration: none;
+		}
+		.col-md-9{
+			padding-left: 0px;
+		}
+		.col-md-3{
+			padding-left: 50px;
+		}
+		#sub-heading>a{
+			text-decoration: none;
+			color: black;
+		}
+		.header{
+			border-bottom: 2px solid #9C231B;
+		}

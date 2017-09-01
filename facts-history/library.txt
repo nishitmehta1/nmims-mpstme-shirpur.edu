@@ -1,0 +1,13 @@
+<p>
+					NMIMS libraries reflect the complete world of scholarship and information. They acquire, disseminate, and preserve information in all the forms in which it is created. It is the work of the NMIMS libraries to provide the University’s faculty, students, and researchers—now and in the future—with comprehensive access over time to all of these materials.</p>
+					<div class="collapse" id="library" >
+					<div>
+						<p>The library was established in 1982, with a focus of developing library catering to management education. With the growth of institute to university catering to diverse fields of education, library also grew.Today, NMIMS has 7 libraries gathered into a single system. The University library has a Mumbai campus library and a Shirpur Operations library.</p>
+						<p>Library users can access more than 5000 full text journals covering titles published by Elsevier (Science Direct), Springer, John Wiley, etc. and from the aggregators like Ebsco and Proquest.The entire Library collection including books, journals, etc. can be searched through the Online Public Access Catalogue (OPAC). </p>
+						<p>Library is moving from an electronic library to a digital library. In the first step library has scanned all the question papers and are live for users use through OPAC. CD’s, VCD’s and DVD’s are also mirrored and kept on a dedicated server for users to access from the desktop.</p>
+						<p>Library organizes one seminar every year where Librarian from all over the country come together to discuss a particular topic. On a lighter side library runs a movie club through which all the NMIMS community enjoys a movie every month.</p>
+						<p>Library conducts Annual user survey to understand where the library is lacking in and also helps us to improve and maintain the services that are appreciated. The target users are the students and faculty members. The survey covers the users overall opinion about the library collection, services, timings, awareness level about e-resources and reading area.</p>
+						<p>NMIMS Library has transformed, from a traditional library with manual transactions to an Electronic library and now is heading to Digital Library.</p>
+					</div>
+					</div>
+					<a href="#library" data-toggle="collapse" aria-expanded="false" id="element4" aria-controls="library" onclick="change(4)">Read More</a>
